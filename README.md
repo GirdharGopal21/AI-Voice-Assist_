@@ -4,9 +4,13 @@ The chatGPT Voice Assistant is a Python-based AI assistant that is capable of tr
 
 # Dependencies
 Python 3.7+
+
 openai
+
 pyttsx3
+
 speech_recognition
+
 pyaudio
 
 # Installation
