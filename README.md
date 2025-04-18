@@ -15,13 +15,19 @@ pyaudio
 
 # Installation
 Clone this repository or download the zip file.
+
 Install the dependencies by running the following command: pip install -r requirements.txt.
+
 Set up your OpenAI API key by following the instructions on the OpenAI website.
+
 Run the script using the following command: python python_chatGPT_voice_assistant.py 
 
 
 # Usage
 To start a conversation with the AI assistant, say "Friday" into the microphone. The assistant will respond with a greeting and ask how it can assist you.
+
 Speak your command or question into the microphone.
+
 The assistant will generate a response based on your input and speak it back to you.
+
 The conversation will continue until exiting the program.
